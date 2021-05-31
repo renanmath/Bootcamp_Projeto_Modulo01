@@ -1,4 +1,4 @@
-#Sobre o Módulo 01
+# Sobre o Módulo 01
 
 Esse repositório contém o Projeto Final do Módulo 01 do Bootcamp Data Science da Alura:Python e Pandas para análise de dados reais.
 O objetivo desse módulo foi analisar dados de saúde utilizando a biblioteca pandas do python. Os dados analisados foram coletados do site [DATASUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi). Eles continham informações, por unidade federativa, sobre os gastos com saúde pública, no período de 2007 a 2021. Esse módulo foi estruturado em 5 aulas:
